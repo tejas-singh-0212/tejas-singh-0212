@@ -1,7 +1,4 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer+%7C+Frontend+Developer+%7C+Open+Source+Enthusiast;Welcome+to+my+GitHub+Universe!&center=true&width=600&height=45" alt="Typing SVG" />
-</p>
 
 <h1 align="center">Hey there! 👋 I'm Tejas Singh</h1>
 
@@ -37,8 +34,7 @@
 🏫 **Shri Mata Vaishno Devi University, Katra**  
 📈 **CGPA:** /10
 
-I am a **research-inclined Computer Science student** with strong interests in  
-**Artificial Intelligence, Data Science, and Computer Vision**.
+I am a **research-inclined Computer Science student** with strong interests in **Artificial Intelligence, Data Science, and Computer Vision**.
 
 I enjoy:
 - Working on **real-world problem statements**
@@ -55,27 +51,19 @@ I enjoy:
 ### 👨‍💻 Programming
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 </p>
 
-### 🤖 AI / ML / CV
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv"/>
-  <img src="https://img.shields.io/badge/YOLOv8-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MediaPipe-00ADEF?style=flat-square"/>
-</p>
-
 ### 🌐 Dev & Tools
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
 ---
