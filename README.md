@@ -1,7 +1,6 @@
-
-# Java-bootcamp-phase-2
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]()
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" height="120" alt="Rocket Launch GIF">
+   <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer+%7C+Frontend+Developer+%7C+Open+Source+Enthusiast;Welcome+to+my+GitHub+Universe!&center=true&width=600&height=45" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hey there! 👋 I'm Tejas Singh</h1>
