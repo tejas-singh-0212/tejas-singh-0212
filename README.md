@@ -90,12 +90,9 @@ I enjoy:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <table>
-    <tr><td>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tejas-singh-0212&show_icons=true&theme=radical" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-singh-0212&theme=radical"/></td>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tejas-singh-0212&show_icons=true&theme=radical" width = 48%/></td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-singh-0212&theme=radical" width = 48%/>
   </tr>
-  </table>
 </p>
 
 <p align="center">
