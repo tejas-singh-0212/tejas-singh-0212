@@ -32,7 +32,7 @@
 
 🎓 **B.Tech Computer Science & Engineering (2025–2029)**  
 🏫 **Shri Mata Vaishno Devi University, Katra**  
-📈 **CGPA:** /10
+📈 **CGPA:** 9.15/10
 
 I am a **research-inclined Computer Science student** with strong interests in **Artificial Intelligence, Data Science, and Computer Vision**.
 
