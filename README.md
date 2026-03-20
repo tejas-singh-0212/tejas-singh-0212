@@ -70,15 +70,17 @@ I enjoy:
 
 ## 🚀 Key Projects
 
+### 🛠️ [SkillHub - Full-Stack Skill Sharing Platform](https://github.com/tejas-singh-0212/SkillHub)
+**Status:** 🌐 [Live Demo](https://skill-hub-gir9.vercel.app/) 
+- **The Goal:** A robust platform for users to discover, share, and manage professional skills.
+- **Tech Stack:** Next.js, Raect 18, Tailwind CSS, Firebase Auth, Firestore (NoSQL), react-leaflet, geofire-common, Nominatim API, ImgBB API
+- **Key Features:** Developed custom CRUD logic for skill management, integrated a persistent database, and handled secure user sessions.
+- **Challenge Overcome:** Transitioned from basic script logic to a multi-tier architecture, ensuring seamless communication between the frontend and backend.
+
 ### 🔑 Password Generator
 - **Customizable Composition** : User chooses exact counts of letters, numbers, and symbols
 - **Randomized Shuffling** : Characters shuffled after selection to prevent predictable patterns
 - **Secure Character Pool** : Uses full ASCII letters, diverse symbols, and digits for strength
-
-### ♠️ Basic BlackJack game
-- **Core Blackjack Logic** : Dealer rules, Ace adjustment, win conditions
-- **Clean Python Functions** : Modular code with clear responsibilities
-- **Interactive Console Game** : Terminal UI with replay feature
 
 ### ⚙️ Caesar Cipher
 - **Bidirectional Cipher** : Single function handles both encryption and decryption using shift direction
